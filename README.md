@@ -1,10 +1,3 @@
-Projeto em Nextjs
-Styled Components
-Jest - Framework de test
-React Testing Library - Biblioteca que contem o assetis utilizada para os testes
-https://testing-library.com/docs/react-testing-library/intro/
-Storybook
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
