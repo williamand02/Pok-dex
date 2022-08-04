@@ -1,0 +1,14 @@
+[
+  {
+    "number": "#001",
+    "name": "Bulbasaur",
+    "img": "/img/pokemons/image 9.png",
+    "type": "grass"
+  },
+  {
+    "number": "#002",
+    "name": "Bulbasaur",
+    "img": "/img/pokemons/image 12.png",
+    "type": "grass"
+  }
+]
